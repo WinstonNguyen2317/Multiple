@@ -1,0 +1,15 @@
+C:\Users\Winston\Desktop\Projects\Project\While Loop\bin\Debug\net6.0\While Loop.exe
+C:\Users\Winston\Desktop\Projects\Project\While Loop\bin\Debug\net6.0\While Loop.deps.json
+C:\Users\Winston\Desktop\Projects\Project\While Loop\bin\Debug\net6.0\While Loop.runtimeconfig.json
+C:\Users\Winston\Desktop\Projects\Project\While Loop\bin\Debug\net6.0\While Loop.dll
+C:\Users\Winston\Desktop\Projects\Project\While Loop\bin\Debug\net6.0\While Loop.pdb
+C:\Users\Winston\Desktop\Projects\Project\While Loop\obj\Debug\net6.0\While Loop.csproj.AssemblyReference.cache
+C:\Users\Winston\Desktop\Projects\Project\While Loop\obj\Debug\net6.0\While Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winston\Desktop\Projects\Project\While Loop\obj\Debug\net6.0\While Loop.AssemblyInfoInputs.cache
+C:\Users\Winston\Desktop\Projects\Project\While Loop\obj\Debug\net6.0\While Loop.AssemblyInfo.cs
+C:\Users\Winston\Desktop\Projects\Project\While Loop\obj\Debug\net6.0\While Loop.csproj.CoreCompileInputs.cache
+C:\Users\Winston\Desktop\Projects\Project\While Loop\obj\Debug\net6.0\While Loop.dll
+C:\Users\Winston\Desktop\Projects\Project\While Loop\obj\Debug\net6.0\refint\While Loop.dll
+C:\Users\Winston\Desktop\Projects\Project\While Loop\obj\Debug\net6.0\While Loop.pdb
+C:\Users\Winston\Desktop\Projects\Project\While Loop\obj\Debug\net6.0\While Loop.genruntimeconfig.cache
+C:\Users\Winston\Desktop\Projects\Project\While Loop\obj\Debug\net6.0\ref\While Loop.dll
